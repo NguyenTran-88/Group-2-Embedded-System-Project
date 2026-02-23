@@ -1,0 +1,47 @@
+﻿,Name,Description,Designator,Part Number,Price,Qty
+,1000 uF,,"[NoValue], C20",,,2
+,100uH,,[NoValue],,,1
+,Schottky diode,,[NoValue],,,1
+,100 uF,,"[NoValue], C18, C19",,,3
+,LM2576T-5.0 NOPB,,[NoValue],,,1
+,Rocker switch (ON-OFF-ON),,[NoValue],,,1
+,3.5mm female jack,,[NoValue],,,1
+,Analog multiplexer CD4053BE,,[NoValue],,,1
+,LM386,,[NoValue],,,1
+,Battery holder,,[NoValue],,,1
+,DC socket,,[NoValue],,,1
+,"OLED 1.3"" I2C",,[NoValue],,,1
+,MH-M28,,[NoValue],,,1
+,DFplayer mini,,[NoValue],,,1
+,Header 4-pin right-angle,,[NoValue],,,1
+,0.1 uF,,"C1, C2, C3, C4, C5, C6, C7, C8",,,8
+,1.5uF,,"C9, C10",,,2
+,8pF,,"C11, C12",,,2
+,2.2uF,,C13,,,1
+,4.7 uF,,"C14, C16, C22, C23",,,4
+,0.01 uF,,C15,,,1
+,10 uF,,C17,,,1
+,47nF,,C21,,,1
+,BAT54C Schottky diode,,D1,,,1
+,BLUE LED,,D2,,,1
+,RED LED,,D3,,,1
+,Diode,,D4,,,1
+,USB Type-C,,J1,,,1
+,1KOhm 100MHz,,L1,,,1
+,2x20 female header for mounting Blackpill board,,P1,,,1
+,330R,,R1,,,1
+,10K,,"R2, R3, R4",,,3
+,1.5K,,R5,,,1
+,5.1K,,"R6, R7, R8",,,3
+,1K,,"R9, R10",,,2
+,10R,,R11,,,1
+,100K,,"R12, R13",,,2
+,100R,,"R14, R15",,,2
+,Potentiometer 10K,,RV1,,,1
+,Potentiometer 1K,,RV2,,,1
+,Solder bridge,,SB1,,,1
+,SW_small_rectangular,,"SW1, SW2, SW3",,,3
+,STM32F411CEU6,,U1,,,1
+,3.3V LDO,,U2,,,1
+,32.768kHz 6pF,,Y1,,,1
+,25MHz 9pF,,Y2,,,1
