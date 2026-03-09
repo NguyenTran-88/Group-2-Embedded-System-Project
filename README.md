@@ -13,8 +13,7 @@ This project is a compact embedded MP3/Bluetooth Player developed around the **S
 ### Demo Video
 <p align="center">
   <a href="https://www.youtube.com/watch?v=hFnXVVGb1SE" target="_blank">
-    <img src=![Uploading image.png…]()
-/>
+    <img src=![Uploading image.png…]()/>
   </a>
 </p>
 
