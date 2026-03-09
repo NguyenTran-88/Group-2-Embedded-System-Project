@@ -1,12 +1,25 @@
 # Group-2-Embedded-System-Project
-**Overview**
-This project is a compact embedded MP3/Bluetooth Player developed around the STM32F411CEU6. It is designed to play audio through a simple and user-friendly interface while integrating multiple hardware modules into one complete system. The player combines the microcontroller with components such as a DFPlayer Mini, OLED display module, push buttons, and audio output circuitry to handle music playback, track control, volume adjustment, and basic user interaction. 
 
-**The first protoype implemented on breadboard**
-Image
-<img width="2560" height="1438" alt="image" src="https://github.com/user-attachments/assets/d7a0ccc8-f1af-4e81-b511-aa97b13924e9" />
-Video
-https://www.youtube.com/watch?si=OdSLelgI5_4irZph&v=hFnXVVGb1SE&feature=youtu.be
+## Overview
+This project is a compact embedded MP3/Bluetooth Player developed around the **STM32F411CEU6**. It is designed to play audio through a simple and user-friendly interface while integrating multiple hardware modules into one complete system. The player combines the microcontroller with components such as a **DFPlayer Mini**, **OLED display module**, **push buttons**, and **audio output circuitry** to handle music playback, track control, volume adjustment, and basic user interaction.
+
+## First Prototype on Breadboard
+
+### Hardware Prototype
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d7a0ccc8-f1af-4e81-b511-aa97b13924e9" alt="First breadboard prototype" width="800"/>
+</p>
+
+### Demo Video
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=hFnXVVGb1SE" target="_blank">
+    <img src="https://img.youtube.com/vi/hFnXVVGb1SE/hqdefault.jpg" alt="Watch the demo video" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=hFnXVVGb1SE"><strong>Watch the demo on YouTube</strong></a>
+</p>
 
 
 
