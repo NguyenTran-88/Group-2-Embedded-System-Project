@@ -7,12 +7,12 @@ This project is a compact embedded MP3/Bluetooth Player developed around the **S
 
 ### Hardware Prototype
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7a0ccc8-f1af-4e81-b511-aa97b13924e9" alt="First breadboard prototype" width="800"/>
+  <img src="https://github.com/user-attachments/assets/d7a0ccc8-f1af-4e81-b511-aa97b13924e9" alt="First breadboard prototype" width="700"/>
 </p>
-## Demo Video
+### Demo Video
 <p align="center">
   <a href="https://www.youtube.com/watch?v=hFnXVVGb1SE">
-    <img src="https://github.com/user-attachments/assets/703186d1-a61f-44ce-a385-7957b6dbf894" width="900">
+    <img src="https://github.com/user-attachments/assets/703186d1-a61f-44ce-a385-7957b6dbf894" width="700">
   </a>
 </p>
 <p align="center">
