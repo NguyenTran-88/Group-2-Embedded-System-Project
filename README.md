@@ -104,9 +104,8 @@ firmware/
 │   ├── CMSIS/
 │   └── STM32F4xx_HAL_Driver/
 ├── Third_Parties/
-│   ├── dfplayer/
-│   └── ssd1306/
-└── Debug/                 (build output - should be ignored)
+    ├── dfplayer/
+    └── ssd1306/
 ```
 
 ##  Main Modules
