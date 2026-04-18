@@ -92,7 +92,7 @@ The system integrates both digital control and analog audio switching to create 
 
 ---
 
-##  Firmware Structure
+## Firmware Structure
 
 ```text
 firmware/
@@ -106,7 +106,7 @@ firmware/
 ├── Third_Parties/
 │   ├── dfplayer/
 │   └── ssd1306/
-├── Debug/ (build output - should be ignored)
+└── Debug/                 (build output - should be ignored)
 
 ##  Main Modules
 
