@@ -107,6 +107,7 @@ firmware/
 │   ├── dfplayer/
 │   └── ssd1306/
 └── Debug/                 (build output - should be ignored)
+```
 
 ##  Main Modules
 
