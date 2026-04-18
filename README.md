@@ -1,22 +1,20 @@
-# Group-2-Embedded-System-Project
+# Group 2 Embedded System Project
 
 ## Overview
-This project is a compact embedded MP3/Bluetooth Player developed around the **STM32F411CEU6**. It is designed to play audio through a simple and user-friendly interface while integrating multiple hardware modules into one complete system. The player combines the microcontroller with components such as a **DFPlayer Mini**, **OLED display module**, **push buttons**, and **audio output circuitry** to handle music playback, track control, volume adjustment, and basic user interaction.
+This repository contains the complete development assets for our embedded system project, including:
+- STM32 firmware
+- PCB design files
+- product demo materials
+- project documentation
 
-## First Prototype on Breadboard
+## Project Highlights
+- STM32-based embedded controller
+- OLED user interface
+- DFPlayer-based MP3 playback
+- MH-M28 Bluetooth audio mode
+- user input handling with mode switching
+- custom PCB implementation
 
-### Hardware Prototype
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d7a0ccc8-f1af-4e81-b511-aa97b13924e9" alt="First breadboard prototype" width="700"/>
-</p>
-**Demo Video**
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=hFnXVVGb1SE">
-    <img src="https://github.com/user-attachments/assets/703186d1-a61f-44ce-a385-7957b6dbf894" width="700">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=hFnXVVGb1SE"><strong>Watch the demo on YouTube</strong></a>
-</p>
-
-https://docs.google.com/spreadsheets/d/1MI0mC4fAEWwbU_KOHAnoMkLBEnux3z5gyDIiNHSRnAE/edit?gid=1830224478#gid=1830224478
+## Repository Structure
+```text
+...tree...
