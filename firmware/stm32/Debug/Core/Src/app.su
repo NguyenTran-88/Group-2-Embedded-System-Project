@@ -1,0 +1,3 @@
+../Core/Src/app.c:14:6:App_Init	16	static
+../Core/Src/app.c:22:6:App_Loop	16	static
+../Core/Src/app.c:36:13:App_HandleEvent	16	static

@@ -1,0 +1,5 @@
+../Core/Src/input.c:64:6:Input_Init	16	static,ignoring_inline_asm
+../Core/Src/input.c:92:9:Input_PopEvent	24	static,ignoring_inline_asm
+../Core/Src/input.c:120:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/input.c:156:16:Input_FindButtonIndexByPin	24	static
+../Core/Src/input.c:171:13:Input_PostEventFromISR	24	static
